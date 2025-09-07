@@ -1,2 +1,2 @@
-# -Analysis-and-optimization-of-a-satellite-s-transfer-orbit
+# Analysis-and-optimization-of-a-satellite-transfer-orbit
 This project entails the implementation and comparative evaluation of multiple orbital transfer strategies between two predetermined points. Various maneuver techniques have been elaborated and analyzed to optimize the transition from an initial orbit to a final orbit, taking into account parameters such as efficiency, duration, and consumption
